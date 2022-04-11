@@ -1,0 +1,8 @@
+C:\Users\vanes\source\repos\Program\ProgramBank\bin\Debug\ProgramBank.exe.config
+C:\Users\vanes\source\repos\Program\ProgramBank\bin\Debug\ProgramBank.exe
+C:\Users\vanes\source\repos\Program\ProgramBank\bin\Debug\ProgramBank.pdb
+C:\Users\vanes\source\repos\Program\ProgramBank\obj\Debug\ProgramBank.csproj.AssemblyReference.cache
+C:\Users\vanes\source\repos\Program\ProgramBank\obj\Debug\ProgramBank.csproj.SuggestedBindingRedirects.cache
+C:\Users\vanes\source\repos\Program\ProgramBank\obj\Debug\ProgramBank.csproj.CoreCompileInputs.cache
+C:\Users\vanes\source\repos\Program\ProgramBank\obj\Debug\ProgramBank.exe
+C:\Users\vanes\source\repos\Program\ProgramBank\obj\Debug\ProgramBank.pdb
